@@ -18,7 +18,7 @@ def edit_material(material):
     return redirect("/")
 
 @app.route('/material', methods=['GET'])
-def hello():
+def get_material():
     return curr_material
 
 
