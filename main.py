@@ -22,6 +22,3 @@ def edit_material(material):
 def get_material():
     global curr_material
     return curr_material
-
-
-    
