@@ -20,6 +20,7 @@ def edit_material(material):
 
 @app.route('/material', methods=['GET'])
 def get_material():
+    global curr_material
     return curr_material
 
 
