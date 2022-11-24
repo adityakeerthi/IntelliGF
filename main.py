@@ -12,11 +12,11 @@ def hello():
     global curr_material
     return curr_material
 
-@app.route('/edit', methods = ['POST'])
+@app.route('/edit/<material>', methods = ['GET','POST'])
 def edit_material(material):
     global curr_material
     curr_material = material
-    return redirect("/")
+    return f"material changed to: {curr_material}"
 
 @app.route('/material', methods=['GET'])
 def get_material():
