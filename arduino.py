@@ -26,11 +26,11 @@ while True:
     time.sleep(3)
     query = requests.get('https://intelligf.herokuapp.com/')
     temp = materials.get(query.text,'material not changed')
-    if temp not in seen: 
-        seen.add(temp); print(query.text,temp)
-        serialComm.write(temp.encode())
-    else: 
-        print('material not changed')
+    # if temp not in seen: 
+    seen.add(temp); print(query.text,temp)
+    serialComm.write(temp.encode())
+    # else: 
+    #     print('material not changed')
     time.sleep(0.5) # buffer time apparently
     # print(serialComm.readline().decode('ascii'))
 
