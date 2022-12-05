@@ -4,58 +4,6 @@ code sources:
 - https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification/code
 
 FINAL REPORT:
- 
-
-Team Member Full Name 
-
-userID 
-
-UserName 
-
-Aditya Keerthi 
-
-21003397 
-
-hhkeerth 
-
-Terry Su 
-
-20995688 
-
-t4su 
-
-Richard Miao 
-
-20998707 
-
-r5miao 
-
-Eric Sheen 
-
-21010660 
-
-easheen 
-
-Matthew Patay 
-
-21022877 
-
-mpatay 
-
- 
-
-VIDEO LINK: IntelliGF | Software Engineering Final Project 
-
-  
-
- 
-
- 
-
- 
-
- 
-
 1. Introduction  
 
 One of the common goals at the University of Waterloo is to support SDGs in a campaign known as “Shift Zero”. Specifically, there are five areas of focus: engaging and training, reducing and eliminating waste, maximizing recycling, capturing organics, and expanding reuse programs. Ultimately, the goal is to attain a 90% diversion rate by 2035, achieving a zero-waste campus. 
